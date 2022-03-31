@@ -1,0 +1,32 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: #14213d;
+  font-weight: bold;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 150px;
+  background-color: #b7b7a4;
+}
+#main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#title {
+  font-size: 30px;
+}
+#img-caption {
+  text-align: center;
+  margin-top: 20px;
+}
+img {
+  max-width: 90%;
+  height: auto;
+  display: block;
+  border-radius: 30px;
+  margin: 0 auto;
+}
+a {
+  text-decoration: none;
+  color: #14213d;
+}
